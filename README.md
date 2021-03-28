@@ -1,1 +1,1 @@
-# MachineLearning__Algorithms
+# **MACHINE LEARNING ALGORITHMS**
